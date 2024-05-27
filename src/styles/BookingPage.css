@@ -1,0 +1,53 @@
+.booking-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #fafafa; /* Fondo claro */
+  color: #333; /* Color de texto */
+}
+
+.booking-form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.booking-form h2 {
+  margin-bottom: 20px;
+}
+
+.booking-form label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.booking-form input,
+.booking-form select,
+.booking-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.booking-form button {
+  padding: 10px 20px;
+  background-color: #4caf50; /* Color del botón */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.booking-form button:hover {
+  background-color: #45a049; /* Color del botón al pasar el ratón */
+}

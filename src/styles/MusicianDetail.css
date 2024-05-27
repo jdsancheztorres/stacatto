@@ -1,0 +1,21 @@
+.musician-detail {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  max-width: 600px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.musician-detail img {
+  width: 100%;
+  border-radius: 0.25rem;
+}
+
+.musician-detail h2 {
+  margin: 1rem 0;
+}
+
+.musician-detail p {
+  margin: 0.5rem 0;
+}

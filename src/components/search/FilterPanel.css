@@ -1,0 +1,25 @@
+/* src/styles/FilterPanel.css */
+.filter-panel {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    margin: 1rem 0;
+  }
+  
+  .filter-panel h3 {
+    margin-top: 0;
+  }
+  
+  .filter-panel label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .filter-panel select {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+  }
+  
